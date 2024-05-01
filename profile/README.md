@@ -3,11 +3,11 @@
 The best Tycoons server in the world! Play with your friends and have fun!
 
 ## Games
-• Space Pets Simulator
-• Utopia Gens
+• Space Pets Simulator\n
+• Utopia Gens\n
 
 ## Links
-• [Discord](https://discord.gg/petsims)
-• Java: play.tycoons.gg
+• [Discord](https://discord.gg/petsims)\n
+• Java: play.tycoons.gg\n
 • Bedrock: bedrock.tycoons.gg
 
